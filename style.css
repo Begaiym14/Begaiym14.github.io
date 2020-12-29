@@ -13,7 +13,7 @@ body {
   height: 793px;
   height: calc(100vh - 80px);
 }
-/* nav { 
+nav {
   display: flex;
   height: 80px;
   width: 100%;
@@ -26,7 +26,7 @@ label.logo {
   padding: 0 100px;
   font-weight: bold;
 }
-nav ul {
+/*nav ul {
   float: right;
   margin-right: 520px;
   flex-direction: row;
