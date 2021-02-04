@@ -583,7 +583,7 @@ footer {
   width: 70px;
   height: 70px;
 }
-/*a {
+a {
   text-decoration: none;
 }
 .beg__email {
@@ -591,7 +591,7 @@ footer {
   font-family: "Montserrat", sans-serif;
 
 }
-.card__bt {
+/*.card__bt {
   padding: 10px 20px;
   color: #FF7B47;
   border: 1px solid #FF7B47;
