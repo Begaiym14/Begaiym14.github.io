@@ -579,11 +579,11 @@ footer {
   background: rgb(255, 255, 255);
 
 }
-/*.beg__img {
+.beg__img {
   width: 70px;
   height: 70px;
 }
-a {
+/*a {
   text-decoration: none;
 }
 .beg__email {
