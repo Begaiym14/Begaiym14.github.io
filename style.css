@@ -543,7 +543,7 @@ footer {
   height: 808px;
   background-color: #f3f3f3;
 }
-/*.beg__text {
+.beg__text {
   position: relative;
   left: 250px;
 
@@ -553,7 +553,7 @@ footer {
   width: 864px;
   height: 107px;
 }
-.beg__title{
+/*.beg__title{
   font-size: 40px;
   text-align: center;
 }
