@@ -173,6 +173,8 @@ nav {
   padding-top: 165px;
   margin-bottom: 80px;
 }
+
+
 .section-2-div-second-h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
@@ -182,6 +184,9 @@ nav {
   margin-top: 50px;
   text-align: center;
 }
+
+
+
 .section-2-div-second-div {
   display: flex;
   justify-content: center;
@@ -415,7 +420,6 @@ nav {
   color: #737373;
   margin: 0;
 }
-
 footer {
   background-color: #fafafa;
 }
@@ -486,20 +490,14 @@ footer {
   margin-right: 20px;
 }
 .example{
-
   height: 232px;
- 
-
-  
   background: #fafafa;
 }
 .example1 {
   height: 71px;
   background-color: #252B42;
 }
-
- .main-3 { 
-  
+.main-3 { 
   width: 1349px;
   height: 908px;
   background: #F3F3F3;
@@ -554,7 +552,12 @@ footer {
   height: 107px;
 }
 .beg__title{
+  font-family: "Montserrat", sans-serif;
   font-size: 40px;
+  line-height: 57px;
+  color: #252b42;
+  margin-bottom: 0;
+  margin-top: 50px;
   text-align: center;
 }
 .beg__suptitle {
