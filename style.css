@@ -541,7 +541,7 @@ footer {
   height: 808px;
   background-color: #f3f3f3;
 }
-.beg__text {
+/* .beg__text {
   position: relative;
   left: 250px;
 
@@ -550,7 +550,7 @@ footer {
   text-align: center;
   width: 864px;
   height: 107px;
-}
+} */
 .beg__title{
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
