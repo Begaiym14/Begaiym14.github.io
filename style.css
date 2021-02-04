@@ -485,6 +485,15 @@ footer {
 .footer-div-third-2 img {
   margin-right: 20px;
 }
+.example{
+  position: absolute;
+  height: 339px;
+  left: 0px;
+  right: 0px;
+  top: 3039px;
+  
+  background: #FAFAFA;
+}
 .example1 {
   position: absolute;
   height: 67px;
