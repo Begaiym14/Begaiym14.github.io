@@ -530,7 +530,7 @@ footer {
   width: 300px;
 }
 
-/*.card-1 {
+.card-1 {
   background: #fff;
   border-radius: 2px;
   display: inline-block;
@@ -539,7 +539,7 @@ footer {
   position: relative;
   width: 300px;
 }
-.beg {
+/*.beg {
   height: 808px;
   background-color: #f3f3f3;
 }
