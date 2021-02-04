@@ -557,16 +557,16 @@ footer {
   font-size: 40px;
   text-align: center;
 }
-/*.beg__suptitle {
+.beg__suptitle {
   position: relative;
-left: 200px;
+  left: 200px;
   text-align: center;
   width: 470px;
   font-weight: 500;
   font-size: 14px;
   color: #737373;
 } 
-.card__beg {
+/*.card__beg {
   display: flex;
   position: relative;
   float: left;
