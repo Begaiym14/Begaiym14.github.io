@@ -551,7 +551,7 @@ footer {
   width: 864px;
   height: 107px;
 }
-.beg__title{
+/* .beg__title{
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
   line-height: 57px;
@@ -568,7 +568,7 @@ footer {
   font-weight: 500;
   font-size: 14px;
   color: #737373;
-} 
+}  */
 .card__beg {
   display: flex;
   position: relative;
