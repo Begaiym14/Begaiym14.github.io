@@ -566,7 +566,7 @@ footer {
   font-size: 14px;
   color: #737373;
 } 
-/*.card__beg {
+.card__beg {
   display: flex;
   position: relative;
   float: left;
@@ -579,7 +579,7 @@ footer {
   background: rgb(255, 255, 255);
 
 }
-.beg__img {
+/*.beg__img {
   width: 70px;
   height: 70px;
 }
