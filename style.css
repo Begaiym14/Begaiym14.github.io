@@ -551,7 +551,7 @@ footer {
   width: 864px;
   height: 107px;
 }
-/* .beg__title{
+.beg__title{
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
   line-height: 57px;
@@ -559,7 +559,7 @@ footer {
   margin-bottom: 0;
   margin-top: 50px;
   text-align: center;
-}*/
+}
 .beg__suptitle {
   position: relative;
   left: 200px;
