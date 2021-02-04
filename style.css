@@ -539,11 +539,11 @@ footer {
   position: relative;
   width: 300px;
 }
-/*.beg {
+.beg {
   height: 808px;
   background-color: #f3f3f3;
 }
-.beg__text {
+/*.beg__text {
   position: relative;
   left: 250px;
 
