@@ -497,10 +497,10 @@ footer {
   height: 71px;
   background-color: #252B42;
 }
-/* .example2{
+ .example2{
   background: #F3F3F3;
 }
-.contr{
+/*.contr{
   display: flex;
   justify-content: space-around;
   max-width: 700px;
