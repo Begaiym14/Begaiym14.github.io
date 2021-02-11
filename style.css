@@ -508,7 +508,7 @@ footer {
   padding-top: 80px;
   padding-bottom: 200px;
 }
-/*.contr div{
+.contr div{
   background-color: #ffffff;
   flex-basis: calc(100% / 2 - 50px);
   width: 328px;
@@ -516,7 +516,7 @@ footer {
   text-align: center;
   margin: 20px 25px;
 }
-.contr div img{
+/*.contr div img{
   width: 72px;
   padding-top: 40px;
 }
