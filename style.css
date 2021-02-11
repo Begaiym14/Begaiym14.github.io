@@ -500,7 +500,7 @@ footer {
  .example2{
   background: #F3F3F3;
 }
-/*.contr{
+.contr{
   display: flex;
   justify-content: space-around;
   max-width: 700px;
@@ -508,7 +508,7 @@ footer {
   padding-top: 80px;
   padding-bottom: 200px;
 }
-.contr div{
+/*.contr div{
   background-color: #ffffff;
   flex-basis: calc(100% / 2 - 50px);
   width: 328px;
