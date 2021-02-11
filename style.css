@@ -531,7 +531,7 @@ footer {
   letter-spacing: 0.2px;
   color: #252B42;
 }
-/*.contr div h5{
+.contr div h5{
   font-family: Montserrat;
   font-style: normal;
   font-weight: bold;
@@ -545,7 +545,7 @@ footer {
   flex-grow: 0;
   margin: 15px 0px;
 }
-.contr button{
+/*.contr button{
   margin-top: 5px;
   margin-bottom: 60px;
   background-color: rgba(240, 230, 140, 0);
