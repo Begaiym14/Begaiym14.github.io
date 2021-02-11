@@ -545,7 +545,7 @@ footer {
   flex-grow: 0;
   margin: 15px 0px;
 }
-/*.contr button{
+.contr button{
   margin-top: 5px;
   margin-bottom: 60px;
   background-color: rgba(240, 230, 140, 0);
@@ -555,7 +555,7 @@ footer {
   border-radius: 5px;
   font-weight: 700;
 }
-.contr button:hover {
+/*.contr button:hover {
   background-color: #FF7B47;
   color: white;
 } */
