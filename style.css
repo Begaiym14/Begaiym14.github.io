@@ -555,10 +555,10 @@ footer {
   border-radius: 5px;
   font-weight: 700;
 }
-/*.contr button:hover {
+.contr button:hover {
   background-color: #FF7B47;
   color: white;
-} */
+}
 
 @media (max-width: 1260px) {
   .big-comrainer {
